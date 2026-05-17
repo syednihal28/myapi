@@ -1,3 +1,6 @@
 {
- "name": "Test"
+ "status": true,
+ "title": "Sorry the App is currently Unavailable",
+ "msg": "App is Under Maintanence please try after sometime",
+ "cancleable": true
 }
