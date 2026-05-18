@@ -1,4 +1,17 @@
 {
-  "offers_rec": true,
-  "offers_rec_img": google.com
+  "offers_status": true,
+  "ofers": [
+    {
+      "title": "Red Tape Mens Shoes",
+      "description" "Very Good Mens Walking Shoes",
+      "price": "₹2999",
+      "image_url": "https://google.com"
+    },
+    {
+      "title": "Red Tape Mens Shoes",
+      "description" "Very Good Mens Walking Shoes",
+      "price": "₹1999",
+      "image_url": "https://google.com"
+    }
+  ]
 }
