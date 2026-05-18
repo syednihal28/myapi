@@ -1,3 +1,12 @@
-{[
-  
-]}
+{
+  "products": [
+    {
+    "title": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "gender": "",
+      "stock": ""
+  }
+  ]
+}
