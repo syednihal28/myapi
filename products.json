@@ -9,12 +9,28 @@
       "stock": "3"
   },
     {
-    "title": "Mens Premium Jacket",
-      "description": "Buy Now Mens Jacket",
-      "price": "3999",
-      "image": "https://imgs.search.brave.com/SJLK4LpfSgnP4phkFYxUmaNLj2cq0OmEjqIZsjWRjkw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXNv/dXJjZXMubWFuZG1k/aXJlY3QuY29tL0lt/YWdlcy9fZGVmYXVs/dC9qL2ovMy9qajMw/NTU1XzFfdGh1bWIu/anBn",
+    "title": "Adidas Royal Jacket",
+      "description": "High Quality Jacket",
+      "price": "4599",
+      "image": "https://imgs.search.brave.com/lScG0frBh-bsMP8s6LK4_oH7cXNhJ3irnm0vy26PFXw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFpNTd3QlFSMEwu/anBn",
       "gender": "male",
-      "stock": "3"
+      "stock": "8"
+  },
+    {
+    "title": "Mens Nike Shoes",
+      "description": "Orginal quality mens Nike shoes",
+      "price": "2500",
+      "image": "https://imgs.search.brave.com/PpiQMcQ9hbM5YRmgKuJfXf41NXeTpi2bDPaXsQt_aOU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFYTzhlaG1aLUwu/anBn",
+      "gender": "male"
+      "stock": "9"
+  },
+    {
+    "title": "Womens Original Nike Shoes",
+      "description": "Branded womens Nike Shoes",
+      "price": "1999",
+      "image": "https://imgs.search.brave.com/eYI9TSWsMaBXaz3Xi4qlhHifnmojwoi-ZcBwWA3DE_o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFSZXNzTXZ5aUwu/anBn",
+      "gender": "female"
+      "stock": ""
   }
   ]
 }
