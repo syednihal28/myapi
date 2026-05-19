@@ -47,7 +47,16 @@
       "image": "https://imgs.search.brave.com/wi3LJx_96ztQc1fnWeN6JZHxI2TtoXb0mRrxPyeVVXo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGFy/a2xlLmluL2Nkbi9z/aG9wL3Byb2R1Y3Rz/L0lNR182OTMyLmpw/Zz92PTE2MDQ1NzMz/NzEmd2lkdGg9MzQ1/Ng",
       "gender": "female",
       "stock": "10"
+  },
+    {
+    "title": "Womens matte Lipsticks",
+      "description": "Colourful Womens Lipstick",
+      "price": "600",
+      "image": "https://imgs.search.brave.com/TvLCQ42AhXFSx1eF6IkzX-ijUyMKGTgkTxvhL_gBgnk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ydWtt/aW5pbTIuZmxpeGNh/cnQuY29tL2ltYWdl/LzYxMi82MTIveGlm/MHEvbGlwc3RpY2sv/NC82L2ovMTYtbGlw/c3RpY2stdmFsZW50/aW5lLWRheS1tYWth/ci1zYW5rcmFudGkt/ZmVzdGl2ZS1ldmVy/eWRheS13ZWFyLW9y/aWdpbmFsLWltYWhr/Nm1mcnh1c3puaHcu/anBlZz9xPTcw",
+      "gender": "female",
+      "stock": "50"
   }
+
 
   ]
 }
