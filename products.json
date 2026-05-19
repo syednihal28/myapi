@@ -63,7 +63,16 @@
       "image": "https://imgs.search.brave.com/GwyRAoxbKLtmyEaGc5OsIda_CuoReI0CVCVumgHaqUU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaGVsaW9zd2F0/Y2hzdG9yZS5jb20v/bWVkaWEvbWFnZWZh/bl9ibG9nL3ByZWNp/c2lvbjUzMC14LTYw/MC5qcGc",
       "gender": "male",
       "stock": "12"
+  },
+    {
+    "title": "Premium Womens Jhumkaas",
+      "description": "silver jhumkaas",
+      "price": "500",
+      "image": "https://imgs.search.brave.com/7aDTYYqyyJ-qb_Tsu8szmwTGTTcTDqm8FOJZS7NKnuI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF2aExWbVZMWEwu/X0FDLl9TUjE4MCwy/MzAuanBn",
+      "gender": "female",
+      "stock": "20"
   }
+
 
 
   ]
