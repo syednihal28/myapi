@@ -39,6 +39,15 @@
       "image": "https://imgs.search.brave.com/oFx0LwB0QbCErPPggezy1PKvozYZnfOjuKkmAyHuYD8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG5namV3ZWxsZXJz/LmNvbS9jZG4vc2hv/cC9maWxlcy9HUkw0/OV9DXzIwLmpwZz92/PTE3NzI4MTQxNzUm/d2lkdGg9MTUwMA",
       "gender": "female",
       "stock": "10"
+  },
+    {
+    "title": "Womens Golden Necklace",
+      "description": "Perfect Womens Necklace",
+      "price": "1000",
+      "image": "https://imgs.search.brave.com/wi3LJx_96ztQc1fnWeN6JZHxI2TtoXb0mRrxPyeVVXo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGFy/a2xlLmluL2Nkbi9z/aG9wL3Byb2R1Y3Rz/L0lNR182OTMyLmpw/Zz92PTE2MDQ1NzMz/NzEmd2lkdGg9MzQ1/Ng",
+      "gender": "female",
+      "stock": "10"
   }
+
   ]
 }
